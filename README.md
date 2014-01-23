@@ -1,1 +1,1 @@
-Example aplications using https://github.com/nicolasstucki/multisets
+Example applications using https://github.com/nicolasstucki/multisets
