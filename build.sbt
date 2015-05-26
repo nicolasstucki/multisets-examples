@@ -1,10 +1,10 @@
 name := "multisets-examples"
 
-version := "0.2"
+version := "0.3"
 
 scalaVersion := "2.11.6"
 
 resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots"
 
-libraryDependencies ++= Seq("io.github.nicolasstucki" %% "multisets" % "0.2")
+libraryDependencies ++= Seq("io.github.nicolasstucki" %% "multisets" % "0.3")
 
